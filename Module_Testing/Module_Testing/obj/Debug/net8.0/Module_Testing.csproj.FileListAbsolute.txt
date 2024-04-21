@@ -1,0 +1,14 @@
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\bin\Debug\net8.0\Module_Testing.exe
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\bin\Debug\net8.0\Module_Testing.deps.json
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\bin\Debug\net8.0\Module_Testing.runtimeconfig.json
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\bin\Debug\net8.0\Module_Testing.dll
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\bin\Debug\net8.0\Module_Testing.pdb
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.AssemblyInfoInputs.cache
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.AssemblyInfo.cs
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.csproj.CoreCompileInputs.cache
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.dll
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\refint\Module_Testing.dll
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.pdb
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.genruntimeconfig.cache
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\ref\Module_Testing.dll
