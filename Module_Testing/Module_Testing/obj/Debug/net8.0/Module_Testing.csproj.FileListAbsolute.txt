@@ -12,3 +12,4 @@ C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\refin
 C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.pdb
 C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.genruntimeconfig.cache
 C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\ref\Module_Testing.dll
+C:\Users\nodio\source\repos\Module_Testing\Module_Testing\obj\Debug\net8.0\Module_Testing.sourcelink.json
